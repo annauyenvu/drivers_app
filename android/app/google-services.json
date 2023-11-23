@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1066026920128",
+    "project_id": "taxi-dispatch-21caf",
+    "firebase_url": "https://taxi-dispatch-21caf-default-rtdb.firebaseio.com",
+    "storage_bucket": "taxi-dispatch-21caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066026920128:android:26555f4d8a6db2c6ae2525",
+        "android_client_info": {
+          "package_name": "com.annauyenvu.driversapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByupk_LXb0kN_Z1vTEi4be1ug8xb53zac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066026920128:android:05a185594230efceae2525",
+        "android_client_info": {
+          "package_name": "com.annauyenvu.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByupk_LXb0kN_Z1vTEi4be1ug8xb53zac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
