@@ -51,6 +51,7 @@ dependencies:
   flutter_polyline_points:
   url_launcher:
   restart_app:
+  firebase_app_check:
 
 dev_dependencies:
   flutter_test:
